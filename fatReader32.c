@@ -1,9 +1,4 @@
 //-----------------------------------------
-// NAME: S M Rukunujjaman
-// STUDENT NUMBER: 7839361
-// COURSE: COMP 3430, SECTION: A01
-// INSTRUCTOR: saulo dos santos
-// ASSIGNMENT: assignment 3
 //REMARKS: This program reads FAT32 file system through three command info,list and get
 //-----------------------------------------
 #include <stdbool.h>
